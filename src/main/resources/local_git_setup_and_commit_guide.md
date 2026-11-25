@@ -1,4 +1,4 @@
-# Local Git Setup and Commit Guide (macOS)
+git commit -m "Initial commit"# Local Git Setup and Commit Guide (macOS)
 
 This guide explains how to configure Git on your Mac, connect to GitHub
 using SSH, and commit and push a local project.
